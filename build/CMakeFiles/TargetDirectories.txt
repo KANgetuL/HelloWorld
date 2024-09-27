@@ -1,0 +1,3 @@
+D:/1- VS file menu/CopyProject/build/CMakeFiles/CopyProject.dir
+D:/1- VS file menu/CopyProject/build/CMakeFiles/edit_cache.dir
+D:/1- VS file menu/CopyProject/build/CMakeFiles/rebuild_cache.dir

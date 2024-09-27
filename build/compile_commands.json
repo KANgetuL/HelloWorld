@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/1- VS file menu/CopyProject/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -o CMakeFiles\\CopyProject.dir\\HW.cpp.obj -c \"D:\\1- VS file menu\\CopyProject\\HW.cpp\"",
+  "file": "D:\\1- VS file menu\\CopyProject\\HW.cpp",
+  "output": "CMakeFiles\\CopyProject.dir\\HW.cpp.obj"
+}
+]
